@@ -1,4 +1,4 @@
-## Social-Media-Analysis-in-SQL
+## Social Media Analysis in SQL
 
 **Introduction:** 
      
